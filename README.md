@@ -1,7 +1,8 @@
 <h1 align="left">Hi, I'm Maciej</h1>
 <h3 align="left">Starting career as Software Developer</h3>
 
-- 🔭 I’m currently learning **.NET**
+- 🔭 Studying programming
+- 🌱 I’m currently learning **.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
