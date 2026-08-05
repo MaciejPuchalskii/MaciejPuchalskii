@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Maciej</h1>
 <h3 align="left">Software Developer</h3>
 
-- 🔭 Studying programming
-- 🌱 I’m currently learning **Python and AI**, **Databricks**, **.NET**
+- 🔭 AI and Data Engineering
+- 🌱 I’m currently learning **Python and AI**, **Databricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
